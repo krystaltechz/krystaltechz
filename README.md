@@ -29,13 +29,10 @@
 
 <br><br><br>
 
-<a href="https://github.com/emptyoz">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://t.me/zIRxByy">
   <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="mailto:vadik.mahnev@yandex.ru">
   <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
