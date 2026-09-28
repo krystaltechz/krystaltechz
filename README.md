@@ -27,15 +27,6 @@
 <img src="https://img.shields.io/badge/Git-0f0f0f?style=for-the-badge&logo=git&logoColor=white&labelColor=2E8B57" />
 <img src="https://img.shields.io/badge/Bash-0f0f0f?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2E8B57" />
 
-<br><br><br>
-
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-  <img src="https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 <br><br>
 
 <img src="https://img.shields.io/badge/SAY_MY_NAME-111111?style=for-the-badge&labelColor=2E8B57" />
